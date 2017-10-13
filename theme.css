@@ -1,0 +1,39 @@
+.btn{
+	display: inline-block;
+	border: 0px solid #ff6c00;
+	padding: 10px 20px;
+	background-color: #ff6c00;
+	text-decoration: none;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1em;
+	color: #ffffff ;
+	border-radius: 7px;
+	transition: 0.1s;
+}
+.btn:hover{
+	background-color: #79a2ff;
+	color: #ffffff;
+}
+.btn:active{
+	background-color: #0000FF;
+}
+.link{
+	font-size: 0.7em;
+	text-decoration: none;
+	margin-right: -260px;
+	color: #79a2ff
+}
+.link:hover{
+	color: #AFEEEE;
+}
+.link:active{
+	color: blue;
+}
+.in{
+	border:0px solid #ff6c00;
+	border-radius:10px;
+	height: 30px;
+	width: 350px;
+	font-size: 1em;
+	padding-left: 55px;
+}
