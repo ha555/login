@@ -17,18 +17,6 @@
 .btn:active{
 	background-color: #0000FF;
 }
-.link{
-	font-size: 0.7em;
-	text-decoration: none;
-	margin-right: -260px;
-	color: #79a2ff
-}
-.link:hover{
-	color: #AFEEEE;
-}
-.link:active{
-	color: blue;
-}
 .in{
 	border:0px solid #ff6c00;
 	border-radius:10px;
