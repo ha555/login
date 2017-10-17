@@ -17,6 +17,21 @@
 .btn:active{
 	background-color: #0000FF;
 }
+.btn1{
+	display: inline-block;
+	border: 0px solid #ff6c00;
+	padding: 10px 20px;
+	background-color: #ececec;
+	text-decoration: none;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 1em;
+	color: #ff6c00 ;
+	border-radius: 7px;
+	transition: 0.1s;
+}
+.btn1:hover{
+	color: #0000FF;
+}
 .in{
 	border:0px solid #ff6c00;
 	border-radius:10px;
